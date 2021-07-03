@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.clr{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.class{
+    width: 50%;
+    padding: 15px;
+}
+.class img{
+    width: 70%;
+    padding-left: 40px;
+}
+p{
+    font-size: 20px;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 700;
+}
